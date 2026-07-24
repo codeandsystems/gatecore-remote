@@ -1,3 +1,4 @@
+// KONUM: flutter\windows\runner\Runner.rc
 // Microsoft Visual C++ generated resource script.
 //
 #pragma code_page(65001)
@@ -89,13 +90,13 @@ BEGIN
     BEGIN
         BLOCK "040904e4"
         BEGIN
-            VALUE "CompanyName", "Purslane Tech Pte. Ltd." "\0"
-            VALUE "FileDescription", "RustDesk Remote Desktop" "\0"
+            VALUE "CompanyName", "CODE AND SYSTEMS LTD" "\0"
+            VALUE "FileDescription", "GateCore Remote" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "rustdesk" "\0"
-            VALUE "LegalCopyright", "Copyright © 2026 Purslane Tech Pte. Ltd. All rights reserved." "\0"
+            VALUE "InternalName", "gatecore-remote" "\0"
+            VALUE "LegalCopyright", "Copyright © 2026 CODE AND SYSTEMS LTD. All rights reserved." "\0"
             VALUE "OriginalFilename", "rustdesk.exe" "\0"
-            VALUE "ProductName", "RustDesk" "\0"
+            VALUE "ProductName", "GateCore Remote" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END
